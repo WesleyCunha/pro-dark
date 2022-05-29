@@ -1,0 +1,8 @@
+[18-Oct-2021 01:19:07 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/vqx6f83c/public_html/phpmailer/enviarMail.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vqx6f83c/public_html/phpmailer/enviarMail.php on line 24
+[18-Oct-2021 01:19:19 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/vqx6f83c/public_html/phpmailer/enviarMail.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vqx6f83c/public_html/phpmailer/enviarMail.php on line 24
